@@ -130,21 +130,21 @@ if Mode == 'About Project':
     st.video('https://youtu.be/vyb_qHuY6DA')
     
     
-if Mode =='About Me':
+# if Mode =='About Me':
     
-    st.markdown('''
-              # About Me \n 
-                Hey this is ** Neeraj Pokala **. \n
+#     st.markdown('''
+#               # About Me \n 
+#                 Hey this is ** Neeraj Pokala **. \n
                         
                         
-                Also check me out on Social Media
-                - [git-Hub](https://github.com/neerajpokala143)
-                - [LinkedIn](https://www.linkedin.com/in/neeraj-pokala-b76b60199)
-                - [Instagram](https://instagram.com/neer_aj.p?utm_medium=copy_link)
-                \n
-                #For More Iam attaching my portfolio website  [click here](https://neerajpokala143.wixsite.com/neeraj-website)\n
-                For any Troubleshooting and Further UI development feel free to DM me at --- neerajpokala143@gmail.com
-                    ''')
+#                 Also check me out on Social Media
+#                 - [git-Hub](https://github.com/neerajpokala143)
+#                 - [LinkedIn](https://www.linkedin.com/in/neeraj-pokala-b76b60199)
+#                 - [Instagram](https://instagram.com/neer_aj.p?utm_medium=copy_link)
+#                 \n
+#                 #For More Iam attaching my portfolio website  [click here](https://neerajpokala143.wixsite.com/neeraj-website)\n
+#                 For any Troubleshooting and Further UI development feel free to DM me at --- neerajpokala143@gmail.com
+#                     ''')
 
 
 if Mode == 'Team':
