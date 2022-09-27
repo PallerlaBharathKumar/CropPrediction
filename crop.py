@@ -11,7 +11,7 @@ import time
 st.sidebar.title("Crop prediction")
 
 Mode = st.sidebar.selectbox('Choose mode',
-                            ['About Project', 'About Me', 'Crop Predictor',
+                            ['About Project','Crop Predictor',
                                 'Dataset', 'Range of Crops']
                             )
 
