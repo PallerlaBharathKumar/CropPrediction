@@ -10,7 +10,7 @@ collection==0.1.6
 colorama==0.4.5
 comtypes==1.1.14
 cycler==0.11.0
-dataclasses==0.8
+dataclasses==0.6
 DateTime==4.7
 db==0.1.1
 db-sqlite3==0.0.1
