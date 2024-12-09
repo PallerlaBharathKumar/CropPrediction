@@ -235,7 +235,7 @@ if Mode == 'Crop Predictor':
 
     testing = [[box1, box2, box3, box4, box5, box6, box7]]
 
-    model = joblib.load('web_page')
+    model = joblib.load('new_web_utf-8')
     prediction = model.predict(testing)
 
     var = int(prediction)
